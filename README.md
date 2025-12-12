@@ -68,5 +68,3 @@ Both constructions helped me deeply understand how traversal orders relate to tr
 
 ---
 
-## 📁 Project Structure
-
